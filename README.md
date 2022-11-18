@@ -5,11 +5,9 @@ Home: https://pypi.org/project/python-u2flib-server/
 
 Package license: BSD-2-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/python-u2flib-server-feedstock/blob/master/LICENSE.txt)
 
 Summary: python-u2flib-server, functionality for working with the server side aspects of the U2F protocol.
-
-
 
 Current build status
 ====================
