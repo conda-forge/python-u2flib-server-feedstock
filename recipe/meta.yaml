@@ -1,5 +1,5 @@
 {% set name = "python-u2flib-server" %}
-{% set version = "5.0.0" %}
+{% set version = "5.0.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 9b9044db13fe24abc7a07c2bdb4b7bb541ca275702f43ecbd0d9641c28bcc226
+  sha256: b5e1712bf8f703c6fc9bac6643efb2d57e6c9d9f0b9ab0c0df74981b2c349632
 
 build:
   number: 0
